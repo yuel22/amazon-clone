@@ -11,7 +11,7 @@ import Orders from "./Pages/Orders/Orders";
 import Results from "./Pages/Results/Results";
 
 const stripePromise = loadStripe(
-  "pk_test_51SAKEM4dfGGFp4vkAg3QI6bv7gPiImWLTqBKD3IA46EOmmrdiRC6SJyqSlb8eAXLzVKFEoFw9rD6C5SLaUi2B06L00bT3F6BCc"
+  "pk_test_51SNX2EEOIZdnlXdWHPe9qFP5CmamaRXHmpxX3qVFw8t4zfuBo9thuanuYrVHkNoAkbuvKudYGN1AUtoaHiBI5OhA009wkD7ls8"
 );
 
 function Router() {

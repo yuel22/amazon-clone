@@ -5,12 +5,12 @@ import "firebase/compat/firestore";
 import "firebase/compat/auth";
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBbw-MTZQGWKWPEX2BGz7EBk2A_QZQM1M0",
-  authDomain: "clone-674d6.firebaseapp.com",
-  projectId: "clone-674d6",
-  storageBucket: "clone-674d6.firebasestorage.app",
-  messagingSenderId: "102361656144",
-  appId: "1:102361656144:web:6911ce22f2fc52a31b5a55",
+  apiKey: "AIzaSyBpYogHqkUvJ7ZRUn2NeeHjYmJKP4RuK8Q",
+  authDomain: "clone-ac9ea.firebaseapp.com",
+  projectId: "clone-ac9ea",
+  storageBucket: "clone-ac9ea.firebasestorage.app",
+  messagingSenderId: "579634009803",
+  appId: "1:579634009803:web:bf95c1bc8a52aaa0b32d4e",
 };
 
 // Initialize Firebase
