@@ -2,7 +2,7 @@
 
 A **full-stack Amazon clone** built with **Vite** and **React.js**, featuring authentication, cart management, orders, and **Stripe** payment integration.
 
-**🌐 Live Demo:** [Amazon Clone Demo](https://amazon-ecommerce-clone-dev-abdisa.netlify.app/)
+**🌐 Live Demo:** [Amazon Clone Demo](https://ecommerce-clone-dev-abdisa.netlify.app/)
 
 ---
 
