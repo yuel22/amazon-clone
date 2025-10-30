@@ -2,7 +2,7 @@
 
 A **full-stack Amazon clone** built with **Vite** and **React.js**, featuring authentication, cart management, orders, and **Stripe** payment integration.
 
-**🌐 Live Demo:** [Amazon Clone Demo](https://yuel22-amazon-clone.netlify.app/)
+**🌐 Live Demo:** [Amazon Clone Demo](https://amazon-clone-yuel.yuelad.com/)
 
 ---
 
